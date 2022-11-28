@@ -13,7 +13,7 @@ function App() {
     <div className="App">
      
      <BrowserRouter>
-            <Routes>
+            <Routes basename="naava_assignments">
                 <Route path='/Dashboard' element={<Dashboard/>} />
                 <Route path='/Doctor' element={<Doctor/>} />
                 <Route path='/Student' element={<Student/>} />
