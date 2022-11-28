@@ -27,7 +27,7 @@ export default function NavBar() {
           <Nav className="flex-column">
         <User/>
 
-            <Nav.Link as={Link} to="/Dashboard" ><AiOutlineHome/>   DashBoard</Nav.Link>
+            <Nav.Link as={Link} to="/" ><AiOutlineHome/>   DashBoard</Nav.Link>
             <Nav.Link as={Link} to="/Approvals"><BsCheck2Square/>  Approvals</Nav.Link>
             <Nav.Link as={Link} to="/ContactUs"><AiOutlinePhone/>  Contact Us</Nav.Link>
             <Nav.Link as={Link} to="/Member"><FiUsers/>  Members</Nav.Link>
