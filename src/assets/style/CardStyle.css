@@ -1,0 +1,45 @@
+.CardBody{
+    display: flex;
+    background-color:white;
+    /* border: 1px solid black; */
+    box-shadow: 1px 1px 18px -5px  rgb(204, 200, 200);  
+    height: 100px;
+    /* width: 300px; */
+    margin-top: 50px;
+    border-radius: 18px;
+    /* flex-direction: column; */
+}
+.NameArea{
+
+}
+
+.User{
+    display: flex;
+    background-color: rgb(175, 241, 175);
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    border-radius: 18px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Count{
+    font-size: 22px;
+    font-weight: bold;
+    color: green;
+    margin-top: 15px;
+
+}
+
+.Description{
+    margin-top:-5px;
+}
+
+/* .row{
+    background-color: green;
+}
+
+.col{
+    border: 2px solid black;
+} */

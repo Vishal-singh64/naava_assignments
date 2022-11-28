@@ -1,0 +1,36 @@
+.UserCard{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    /* margin: 10px; */
+    flex-direction: row;
+}
+
+.UserLogo{
+    justify-content: center;
+    align-items: center;
+}
+
+.ProfileName{
+    font-weight:38px;
+    color: white;
+}
+
+.NameArea{
+    display: flex;
+    margin: 5px;
+    flex-direction: column;
+    /* border: 2px solid black; */
+}
+.Position{
+    font-weight: lighter;
+    font-size: 12px;
+    color: white;
+}
+.UserAdd{
+    position: absolute;
+    right: 0px;
+    /* margin: 10px; */
+    margin-left: 20px;
+}
+

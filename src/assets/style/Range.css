@@ -1,0 +1,36 @@
+.range{
+background-color: aqua;
+}
+
+.Heading{
+    font-size: 18px;
+    position: relative;
+    left: 20px;
+}
+
+.InputField{
+    width: 100px;
+    height: 30px;
+    padding: 10px;
+}
+
+.controle{
+    position: relative;
+    right: 45px;
+    bottom: 2px;
+}
+
+
+.Heading2{
+    position: relative;
+    right: 60px;
+}
+
+.SearchMenu{
+    margin: 20px;
+}
+
+
+/* .col{
+    border: 2px solid black;
+} */
