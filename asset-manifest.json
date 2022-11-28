@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/naava_assignments/static/css/main.e23deed8.css",
-    "main.js": "/naava_assignments/static/js/main.61cf073f.js",
+    "main.js": "/naava_assignments/static/js/main.7b6881a0.js",
     "static/js/787.7d0f04b5.chunk.js": "/naava_assignments/static/js/787.7d0f04b5.chunk.js",
     "static/media/Naava.png": "/naava_assignments/static/media/Naava.0d32c41ed7736026a0ae.png",
     "static/media/Err.png": "/naava_assignments/static/media/Err.4777eeea088c5afff067.png",
     "index.html": "/naava_assignments/index.html",
     "main.e23deed8.css.map": "/naava_assignments/static/css/main.e23deed8.css.map",
-    "main.61cf073f.js.map": "/naava_assignments/static/js/main.61cf073f.js.map",
+    "main.7b6881a0.js.map": "/naava_assignments/static/js/main.7b6881a0.js.map",
     "787.7d0f04b5.chunk.js.map": "/naava_assignments/static/js/787.7d0f04b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e23deed8.css",
-    "static/js/main.61cf073f.js"
+    "static/js/main.7b6881a0.js"
   ]
 }
