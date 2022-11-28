@@ -14,7 +14,7 @@ function App() {
      
      <BrowserRouter>
             <Routes basename="naava_assignments">
-                <Route path='/Dashboard' element={<Dashboard/>} />
+                <Route path='/' element={<Dashboard/>} />
                 <Route path='/Doctor' element={<Doctor/>} />
                 <Route path='/Student' element={<Student/>} />
                 <Route path='/CA' element={<CA/>} />
